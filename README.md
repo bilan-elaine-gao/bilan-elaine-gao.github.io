@@ -7,5 +7,5 @@
 ### International journals: IEEE Access(2022), IEEE TNNLS(Current)
 
 ## Education 
-### M.SC AI-Application, Chung-Ang University
+### M.Sc AI-Application, Chung-Ang University
 ### B.Sc International Logistics, Chung-Ang University
