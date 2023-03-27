@@ -17,4 +17,5 @@
 
 
 
-#### $\textcolor{red}{\textsf{Colors work}}$
+#### $\textcolor{black}{\textsf{Colors work}}$
+### $${\color{green}Preview\ text}$$
