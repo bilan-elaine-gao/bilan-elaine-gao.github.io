@@ -1,0 +1,11 @@
+---
+---
+
+// Headers
+$header-heading-color: #000 !default; //black
+
+// Text
+$body-text-color:  #000 !default;  //black
+$body-link-color: #1e6bb8 !default; //blue
+
+@import "{{ site.theme }}";
