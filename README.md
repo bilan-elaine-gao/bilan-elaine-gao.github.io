@@ -3,7 +3,7 @@
 I recently gradrated from [department of Artificial intelliegnce](http://ai.cau.ac.kr/main.php) at Chung-Ang University, under supervison of Professor [YoungBin Kim](https://scholar.google.com/citations?user=If6P518AAAAJ&hl=ko), who leads the Intelligent Information Processing Lab[(IIPL)](https://sites.google.com/view/iiplcau/home). I am an incoming research assistant in Intelligent Information Processing Lab, and I mainly work on computer vision(CV). My research interests are: continual learning, representaion learning, knowledge distillation.
 
 ## News
-- 04/2023: One paper accepted at ICLR 2023 tiny paper ([Openreview](https://openreview.net/forum?id=6I5i0Ytnlul), Revised vision TBA)
+- 2023/04: One paper accepted at ICLR 2023 tiny paper ([Openreview](https://openreview.net/forum?id=6I5i0Ytnlul), Revised vision TBA)
 
 ## Pulication
 Coming soon
