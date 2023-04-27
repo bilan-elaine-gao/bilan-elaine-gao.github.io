@@ -6,9 +6,7 @@ I recently gradrated from [department of Artificial intelliegnce](http://ai.cau.
 - 2023.04: One paper accepted at ICLR 2023 tiny paper track ([Openreview](https://openreview.net/forum?id=6I5i0Ytnlul))
 
 ## Pulication
-### ICLR 2023 tiny paper track: Towards Robust Feature Learning with t-vFM Similarity for Continual Learning [Openreview](https://openreview.net/forum?id=6I5i0Ytnlul)
-
-### **Bilan Gao**, YoungBin Kim
+Towards Robust Feature Learning with t-vFM Similarity for Continual Learning(ICLR 2023 tiny paper, **Bilan Gao**, YoungBin Kim) [Openreview](https://openreview.net/forum?id=6I5i0Ytnlul)
 
 ## Academic services
 Conferences: ICPR(2022), AISTATS(2023)
