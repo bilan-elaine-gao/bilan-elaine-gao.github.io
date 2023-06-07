@@ -2,11 +2,11 @@
 <img align="left" src="my_pic.jpg" width="200" height="270" >
 
 ## About me
-Currently, I am a research assistant in Intelligent Information Processing Lab[(IIPL)](https://sites.google.com/view/iiplcau/home) under supervison of Professor [YoungBin Kim](https://scholar.google.com/citations?user=If6P518AAAAJ&hl=ko). My research interests are: continual learning, representaion learning, knowledge distillation, causality/causal inference.
+&nbsp Currently, I am a research assistant in Intelligent Information Processing Lab[(IIPL)](https://sites.google.com/view/iiplcau/home) under supervison of Professor [YoungBin Kim](https://scholar.google.com/citations?user=If6P518AAAAJ&hl=ko). My research interests are: continual learning, representaion learning, knowledge distillation, causality/causal inference.
 
 ## News
-- 2023.06: Became research assistant at Chung-Ang University
-- 2023.04: One paper accepted at ICLR 2023 tiny paper track ([Openreview](https://openreview.net/forum?id=6I5i0Ytnlul))
+&nbsp - 2023.06: Became research assistant at Chung-Ang University
+&nbsp - 2023.04: One paper accepted at ICLR 2023 tiny paper track ([Openreview](https://openreview.net/forum?id=6I5i0Ytnlul))
 
 ## Pulication
 Towards Robust Feature Learning with t-vFM Similarity for Continual Learning(ICLR 2023 tiny paper, **Bilan Gao**, YoungBin Kim) [Openreview](https://openreview.net/forum?id=6I5i0Ytnlul),[arxiv](http://arxiv.org/abs/2306.02335)
