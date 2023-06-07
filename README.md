@@ -1,6 +1,6 @@
 # Bilan “Elaine” Gao
 
-<img align="left" width="200" height="270" src="[http://www.fillmurray.com/100/100](https://github.com/bilan-elaine-gao/bilan-elaine-gao.github.io/blob/main/my_pic.jpg/200/270)">
+<img align="left" width="200" height="270" src="ttps://github.com/bilan-elaine-gao/bilan-elaine-gao.github.io/blob/main/my_pic.jpg/200/270">
 
 
 ## About me
