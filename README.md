@@ -7,7 +7,7 @@
 
 #### News
 &nbsp; - 2023.06: Became research assistant at Chung-Ang University<br>
-&nbsp; - 2023.04: One paper accepted at ICLR 2023 tiny paper track
+&nbsp; - 2023.04: One paper accepted at **ICLR 2023 tiny paper track**
 
 
 ## Publications
