@@ -10,7 +10,7 @@
  - 2023.04: One paper accepted at ICLR 2023 tiny paper track
 
 
-## Pulication
+## Publications
 - [Towards Robust Feature Learning with t-vFM Similarity for Continual Learning](http://arxiv.org/abs/2306.02335)(ICLR 2023 tiny paper track)<br>
 ***Bilan Gao***, *YoungBin Kim*
 
