@@ -11,9 +11,8 @@
 
 
 ## Pulication
-Towards Robust Feature Learning with t-vFM Similarity for Continual Learning(**Bilan Gao**, YoungBin Kim)
-
-ICLR 2023 tiny paper track[[Paper link](http://arxiv.org/abs/2306.02335),[Review](https://openreview.net/forum?id=6I5i0Ytnlul)]
+[Towards Robust Feature Learning with t-vFM Similarity for Continual Learning](http://arxiv.org/abs/2306.02335)<br>
+***Bilan Gao***, *YoungBin Kim*(ICLR 2023 tiny paper track)
 
 
 
