@@ -1,5 +1,5 @@
 # Bilan “Elaine” Gao
-![](https://github.com/bilan-elaine-gao/bilan-elaine-gao.github.io/blob/main/profiel_img.jpg= 200px)
+![](https://github.com/bilan-elaine-gao/bilan-elaine-gao.github.io/blob/main/profiel_img.jpg =200px)
 
 
 ## About me
