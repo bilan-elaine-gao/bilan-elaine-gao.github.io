@@ -1,5 +1,5 @@
 # Bilan “Elaine” Gao
-<img align="left" src="my_pic.jpg" width="200" height="270" >
+<img align="left" src="my_pic.jpg" width="200" height="270" >&nbsp;&nbsp;&nbsp;&nbsp
 
 
 ## About me
