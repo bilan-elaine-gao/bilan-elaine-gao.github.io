@@ -1,6 +1,6 @@
 # Bilan “Elaine” Gao
 
-<img align="left" width="200" height="270" src=my_pic.jpg>
+<img align="left" width="200" height="260" src=my_pic.jpg>
 
 ## About me
 Currently, I am a research assistant in Intelligent Information Processing Lab[(IIPL)](https://sites.google.com/view/iiplcau/home) under supervison of Professor [YoungBin Kim](https://scholar.google.com/citations?user=If6P518AAAAJ&hl=ko). My research interests are: continual learning, representaion learning, knowledge distillation, causality/causal inference.
