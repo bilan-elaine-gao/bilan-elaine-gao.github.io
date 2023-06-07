@@ -17,9 +17,9 @@
 
 
 ## Academic services
-Conferences: ICPR(2022), AISTATS(2023)
-
-International journals: IEEE Access(2022), IEEE TNNLS(Current)
+#### Reviewer
+- International Conferences: ICPR(2022), AISTATS(2023)
+- International journals: IEEE Access(2022), IEEE TNNLS(Current)
 
 
 ## Education 
