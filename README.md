@@ -9,6 +9,7 @@ Currently, I am a research assistant in Intelligent Information Processing Lab[(
 - 2023.06: Became research assistant at Chung-Ang University
 - 2023.04: One paper accepted at ICLR 2023 tiny paper track ([Openreview](https://openreview.net/forum?id=6I5i0Ytnlul))
 
+
 ## Pulication
 Towards Robust Feature Learning with t-vFM Similarity for Continual Learning(ICLR 2023 tiny paper, **Bilan Gao**, YoungBin Kim) [Openreview](https://openreview.net/forum?id=6I5i0Ytnlul),[arxiv](http://arxiv.org/abs/2306.02335)
 
