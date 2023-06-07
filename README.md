@@ -1,6 +1,6 @@
 # Bilan “Elaine” Gao
 
-<img align="left" width="200" height="270" src="https://github.com/bilan-elaine-gao/bilan-elaine-gao.github.io/blob/main/my_pic.jpg">
+<img align="left" width="200" height="270" src="https://github.com/bilan-elaine-gao/bilan-elaine-gao.github.io/blob/main/profiel_img.jpg">
 
 
 ## About me
